@@ -1,0 +1,10 @@
+{
+  "name": "bdc-cyrus-sandbox",
+  "version": "1.0.0",
+  "description": "Temperature-conversion utility with tests",
+  "main": "src/temperature.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
